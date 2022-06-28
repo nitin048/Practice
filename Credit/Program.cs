@@ -58,11 +58,11 @@ namespace Credit
 
             try
             {
-                if (x > 750)
+                if (x >= 750)
                 {
                     Console.WriteLine("Yes");
                 }
-                else if (x <= 600)
+                else if (x <= 750)
                 {
                     Console.WriteLine("NO");
                 }
