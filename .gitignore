@@ -18,3 +18,6 @@ bin-release/
 # information for Eclipse / Flash Builder.
 *.xml
 .vs/Practice/xs/UserPrefs.xml
+.vs/Practice/xs/project-cache/INTEST-Debug.json
+.vs/Practice/xs/UserPrefs.xml
+.vs/Practice/xs/UserPrefs.xml
