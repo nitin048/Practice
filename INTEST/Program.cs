@@ -49,7 +49,7 @@ namespace INTEST
             {
 
 
-              int t = int.Parse(Console.ReadLine());
+                int t = int.Parse(Console.ReadLine());
                 if (t%y==0)
                 {
                     ans++;
