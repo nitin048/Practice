@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{35B12F3E-2F66-4C20-A122-A6F1E5165B72}|Default">
+﻿<Properties StartupConfiguration="{5548E720-C290-4CCC-A396-24C8A402C884}|Default">
+  <MonoDevelop.Ide.ItemProperties.2Cab FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.BATTERYLOW FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="INCRIQ/Program.cs">
@@ -26,5 +27,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Triangle-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Volume FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ATM FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
