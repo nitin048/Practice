@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseReg", "CourseReg\Cour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INCRIQ", "INCRIQ\INCRIQ.csproj", "{EA323CFA-FE2C-4AF8-B5DD-22A3EC3621C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle-pattern", "Triangle-pattern\Triangle-pattern.csproj", "{76F6A854-1765-4EDB-B7A4-10E8880499D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EA323CFA-FE2C-4AF8-B5DD-22A3EC3621C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA323CFA-FE2C-4AF8-B5DD-22A3EC3621C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA323CFA-FE2C-4AF8-B5DD-22A3EC3621C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F6A854-1765-4EDB-B7A4-10E8880499D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F6A854-1765-4EDB-B7A4-10E8880499D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F6A854-1765-4EDB-B7A4-10E8880499D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F6A854-1765-4EDB-B7A4-10E8880499D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
