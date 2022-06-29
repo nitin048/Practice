@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{A57FD987-1A44-4DBF-BD83-4E71B37346BF}|Default">
+﻿<Properties StartupConfiguration="{35B12F3E-2F66-4C20-A122-A6F1E5165B72}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.OddEven-number FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BATTERYLOW FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="INCRIQ/Program.cs">
     <Files>

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle-pattern", "Triangl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven-number", "OddEven-number\OddEven-number.csproj", "{35B12F3E-2F66-4C20-A122-A6F1E5165B72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BATTERYLOW", "BATTERYLOW\BATTERYLOW.csproj", "{5548E720-C290-4CCC-A396-24C8A402C884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{35B12F3E-2F66-4C20-A122-A6F1E5165B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B12F3E-2F66-4C20-A122-A6F1E5165B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B12F3E-2F66-4C20-A122-A6F1E5165B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5548E720-C290-4CCC-A396-24C8A402C884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5548E720-C290-4CCC-A396-24C8A402C884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5548E720-C290-4CCC-A396-24C8A402C884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5548E720-C290-4CCC-A396-24C8A402C884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
