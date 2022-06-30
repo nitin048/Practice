@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1RULE", "F1RULE\F1RULE.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mahasena", "Mahasena\Mahasena.csproj", "{CBA0D141-7341-4C90-A65F-FA7DFE075B7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRUESCORE", "TRUESCORE\TRUESCORE.csproj", "{F3D43988-C995-4665-ACF3-12A5FEC1386C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CBA0D141-7341-4C90-A65F-FA7DFE075B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA0D141-7341-4C90-A65F-FA7DFE075B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA0D141-7341-4C90-A65F-FA7DFE075B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D43988-C995-4665-ACF3-12A5FEC1386C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D43988-C995-4665-ACF3-12A5FEC1386C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D43988-C995-4665-ACF3-12A5FEC1386C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D43988-C995-4665-ACF3-12A5FEC1386C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
