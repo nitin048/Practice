@@ -24,6 +24,7 @@ NOT READY
 Example 2
 Input:
 1
+
 2
 Output:
 READY FOR BATTLE
@@ -61,7 +62,45 @@ namespace Mahasena
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string confirm;
+            do
+            {
+                Console.WriteLine("Wellcome worrior to Mahasena");
+                Console.WriteLine("Let's check your Troops are lucky or unlucky");
+                Console.WriteLine("Enter the no of soldiers");
+                int n = 0;
+                int even = 0;
+                int odd = 0;
+                n = int.Parse(Console.ReadLine());
+                Console.WriteLine("Please enter your no of weapons");
+                int[] x = new int [n];
+                for (int i = 0; i < x.Length; i++)
+                {
+                     x[i] = int.Parse(Console.ReadLine());
+                    if (x[i]%2==0)
+                    {
+                        even++;
+                    }
+                    else
+                    {
+                        odd++;
+                    }
+                }
+
+                if (even>odd)
+                {
+                    Console.WriteLine("Troops,Ready for battel!");
+                }
+                else
+                {
+                    Console.WriteLine("Not ready!");
+                }
+
+                Console.WriteLine("Worrior do you want to fight aging?\nYes or No");
+                confirm = Console.ReadLine();
+            } while (confirm=="yes");
+            
+
         }
     }
 }
