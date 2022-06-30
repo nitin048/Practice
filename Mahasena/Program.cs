@@ -64,7 +64,7 @@ namespace Mahasena
             do
             {
                 Console.WriteLine("Wellcome worrior to Mahasena");
-                Console.WriteLine("Let's check your Troops are lucky or unlucky");
+                Console.WriteLine("Let's check your Troops are lucky or unlucky for battle");
                 Console.WriteLine("Enter the no of soldiers");
                 int n = 0;
                 int even = 0;
@@ -87,7 +87,7 @@ namespace Mahasena
 
                 if (even>odd)
                 {
-                    Console.WriteLine("Troops,Ready for battel!");
+                    Console.WriteLine("Troops,Ready for battle!");
                 }
                 else
                 {
