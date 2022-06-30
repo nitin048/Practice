@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{CBA0D141-7341-4C90-A65F-FA7DFE075B7D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mahasena/Program.cs">
+﻿<Properties StartupConfiguration="{9D54992C-354F-456C-8CA8-BA3E81F5D216}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="THREETOPICS/Program.cs">
     <Files>
       <File FileName="CourseReg/Program.cs" Line="47" Column="1" />
       <File FileName="INCRIQ/Program.cs" Line="44" Column="18" />
@@ -11,13 +11,15 @@
       <File FileName="ATM/Program.cs" Line="24" Column="1" />
       <File FileName="Volume/Program.cs" Line="29" Column="14" />
       <File FileName="F1RULE/Program.cs" Line="45" Column="1" />
-      <File FileName="Mahasena/Program.cs" Line="45" Column="10" />
+      <File FileName="Mahasena/Program.cs" Line="108" Column="1" />
+      <File FileName="TRUESCORE/Program.cs" Line="80" Column="46" />
+      <File FileName="THREETOPICS/Program.cs" Line="66" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Practice" expanded="True">
-            <Node name="Mahasena" expanded="True" />
+            <Node name="THREETOPICS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,10 +30,12 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Mahasena PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2Cab FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Triangle-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TRUESCORE FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Volume FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ATM FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
@@ -40,6 +44,7 @@
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
