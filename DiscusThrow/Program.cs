@@ -54,7 +54,7 @@ namespace DiscusThrow
                     {
                         arr[i]= int.Parse(Console.ReadLine());
                         
-                     }
+                    }
                     
                     foreach (dynamic i in arr)
                     {
