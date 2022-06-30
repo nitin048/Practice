@@ -15,37 +15,35 @@ Output
 Generate one line output saying "READY FOR BATTLE", if the army satisfies the conditions that Kattapa requires or "NOT READY" otherwise (quotes for clarity)
 
 Example 1
-Input:
-1
+Input:1
+
 1
 Output:
 NOT READY
 
 Example 2
-Input:
-1
-
+Input:1
 2
 Output:
 READY FOR BATTLE
 
 Example 3
-Input:
-4
+Input:4
+
 11 12 13 14
 Output:
 NOT READY
 
 Example 4
-Input:
-3
+Input:3
+
 2 3 4
 Output:
 READY FOR BATTLE
 
 Example 5
-Input:
-5
+Input:5
+
 1 2 3 4 5
 Output:
 NOT READY
