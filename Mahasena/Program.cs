@@ -87,10 +87,12 @@ namespace Mahasena
 
                 if (even>odd)
                 {
+                    Console.WriteLine("-------------------------");
                     Console.WriteLine("Troops,Ready for battle!");
                 }
                 else
                 {
+                    Console.WriteLine( "------------------------");
                     Console.WriteLine("Not ready!");
                 }
                 Console.WriteLine("------------------------------------------------");
