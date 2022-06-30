@@ -93,11 +93,11 @@ namespace Mahasena
                 {
                     Console.WriteLine("Not ready!");
                 }
-
+                Console.WriteLine("------------------------------------------------");
                 Console.WriteLine("Worrior do you want to fight aging?\nYes or No");
                 confirm = Console.ReadLine();
             } while (confirm=="yes");
-            
+            Console.WriteLine("Thank you!");
 
         }
     }
