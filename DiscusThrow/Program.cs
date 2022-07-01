@@ -65,7 +65,7 @@ namespace DiscusThrow
                         x++;
                     }
                     Console.WriteLine("-----------------------------------------------");
-                    Console.WriteLine("Longest distance disc thrown is :"+" "+highest+" "+"meter");
+                    Console.WriteLine("Longest distance of disc thrown is :"+" "+highest+" "+"meter");
                     Console.WriteLine("-----------------------------------------------");
                     Console.WriteLine("Do you want to play again?\nYes or No");
                     confirm = Console.ReadLine().ToLower();

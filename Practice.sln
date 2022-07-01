@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THREETOPICS", "THREETOPICS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscusThrow", "DiscusThrow\DiscusThrow.csproj", "{355A4B17-1377-4C30-BEA3-1B16AC162C01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINDSHOES", "FINDSHOES\FINDSHOES.csproj", "{06B42749-DCEF-457D-8296-3B597837193C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chef-and-WaterBottles", "Chef-and-WaterBottles\Chef-and-WaterBottles.csproj", "{868A4024-F7C2-4E2C-9633-A51225B86AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{355A4B17-1377-4C30-BEA3-1B16AC162C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{355A4B17-1377-4C30-BEA3-1B16AC162C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{355A4B17-1377-4C30-BEA3-1B16AC162C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B42749-DCEF-457D-8296-3B597837193C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B42749-DCEF-457D-8296-3B597837193C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B42749-DCEF-457D-8296-3B597837193C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B42749-DCEF-457D-8296-3B597837193C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
