@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{18CF5797-B37B-4B3C-96A1-9E341DC945BB}|Default">
+﻿<Properties StartupConfiguration="{2B9ECD95-4490-4A90-964B-731F4229C60E}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Finding-Square-Roots PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PASSORFAIL FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Self-Defence-Training PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
@@ -35,7 +36,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Second-Largest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Second-Largest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DiscusThrow PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chessboard-Distance PreferredExecutionTarget="MonoDevelop.Default" />

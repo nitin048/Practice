@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrement-OR-Increment", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second-Largest", "Second-Largest\Second-Largest.csproj", "{2B9ECD95-4490-4A90-964B-731F4229C60E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PASSORFAIL", "PASSORFAIL\PASSORFAIL.csproj", "{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
