@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINDSHOES", "FINDSHOES\FIND
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chef-and-WaterBottles", "Chef-and-WaterBottles\Chef-and-WaterBottles.csproj", "{868A4024-F7C2-4E2C-9633-A51225B86AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding-Square-Roots", "Finding-Square-Roots\Finding-Square-Roots.csproj", "{C10F00BB-ED3F-4C6F-8554-27FC51B73B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chessboard-Distance", "Chessboard-Distance\Chessboard-Distance.csproj", "{781CE797-F13F-4F4C-AD53-BC58723C821D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{868A4024-F7C2-4E2C-9633-A51225B86AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10F00BB-ED3F-4C6F-8554-27FC51B73B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10F00BB-ED3F-4C6F-8554-27FC51B73B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10F00BB-ED3F-4C6F-8554-27FC51B73B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10F00BB-ED3F-4C6F-8554-27FC51B73B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
