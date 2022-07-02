@@ -79,7 +79,7 @@ namespace Important_Pages_on_CodeChef
                     }
                     else
                     {
-                        Console.WriteLine("Please enter valid input either 0 or 1");
+                        Console.WriteLine("Please enter valid input either 0 or 1 also should not same ");
                     }
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");

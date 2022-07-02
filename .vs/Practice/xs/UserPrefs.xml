@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{05CC1748-9B7F-4273-8A51-C385A3C0190E}|Default">
+﻿<Properties StartupConfiguration="{18CF5797-B37B-4B3C-96A1-9E341DC945BB}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Finding-Square-Roots PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Self-Defence-Training PreferredExecutionTarget="MonoDevelop.Default" />
@@ -35,12 +35,14 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Second-Largest FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DiscusThrow PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chessboard-Distance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Decrement-OR-Increment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-WaterBottles PreferredExecutionTarget="MonoDevelop.Default" />

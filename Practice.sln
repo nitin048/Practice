@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-Defence-Training", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Important-Pages-on-CodeChef", "Important-Pages-on-CodeChef\Important-Pages-on-CodeChef.csproj", "{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decrement-OR-Increment", "Decrement-OR-Increment\Decrement-OR-Increment.csproj", "{18CF5797-B37B-4B3C-96A1-9E341DC945BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second-Largest", "Second-Largest\Second-Largest.csproj", "{2B9ECD95-4490-4A90-964B-731F4229C60E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CF5797-B37B-4B3C-96A1-9E341DC945BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CF5797-B37B-4B3C-96A1-9E341DC945BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CF5797-B37B-4B3C-96A1-9E341DC945BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CF5797-B37B-4B3C-96A1-9E341DC945BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9ECD95-4490-4A90-964B-731F4229C60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
