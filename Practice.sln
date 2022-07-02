@@ -43,6 +43,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding-Square-Roots", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chessboard-Distance", "Chessboard-Distance\Chessboard-Distance.csproj", "{781CE797-F13F-4F4C-AD53-BC58723C821D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupFinals", "CupFinals\CupFinals.csproj", "{C9C7A663-55BC-441B-9826-BB1F56736A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-Defence-Training", "Self-Defence-Training\Self-Defence-Training.csproj", "{05CC1748-9B7F-4273-8A51-C385A3C0190E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Important-Pages-on-CodeChef", "Important-Pages-on-CodeChef\Important-Pages-on-CodeChef.csproj", "{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +135,18 @@ Global
 		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781CE797-F13F-4F4C-AD53-BC58723C821D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C7A663-55BC-441B-9826-BB1F56736A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C7A663-55BC-441B-9826-BB1F56736A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C7A663-55BC-441B-9826-BB1F56736A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C7A663-55BC-441B-9826-BB1F56736A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CC1748-9B7F-4273-8A51-C385A3C0190E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CC1748-9B7F-4273-8A51-C385A3C0190E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CC1748-9B7F-4273-8A51-C385A3C0190E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CC1748-9B7F-4273-8A51-C385A3C0190E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA94AC9E-FAC1-4D01-B1A1-286739F6A30C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

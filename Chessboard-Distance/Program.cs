@@ -50,7 +50,7 @@ namespace Chessboard_Distance
                     confrim = Console.ReadLine().ToLower();
                 } while (confrim=="yes");
                 Console.WriteLine("--------------------------------------");
-                Console.WriteLine("Thank you!!");
+                Console.WriteLine("Thank you!!👋");
             }
             catch (Exception ex)
             {
