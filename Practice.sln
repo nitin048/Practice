@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum-OR-Difference", "Sum-OR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Small-Factorial", "Small-Factorial\Small-Factorial.csproj", "{75E8FB72-6A67-4283-9D3F-147161D4582B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janmansh-and-Games", "Janmansh-and-Games\Janmansh-and-Games.csproj", "{B1C1D5E2-156F-435A-8D76-4683213E73C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{75E8FB72-6A67-4283-9D3F-147161D4582B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75E8FB72-6A67-4283-9D3F-147161D4582B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75E8FB72-6A67-4283-9D3F-147161D4582B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

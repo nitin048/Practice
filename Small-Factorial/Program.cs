@@ -37,13 +37,12 @@ namespace Small_Factorial
                 {
                     Console.WriteLine("Let's find the factorial of a given number");
                     Console.WriteLine("Enter a number to find factorial");
-                     int count = int.Parse(Console.ReadLine());
+                    int count = int.Parse(Console.ReadLine());
                     int[] x = new int[count+1];
                     int ans = 1;
                     for (int i = 1; i <= count; i++)
                     {
                         x[i]=i;
-
                         ans = ans * x[i];
                     }
                     Console.WriteLine( "----------------------");
