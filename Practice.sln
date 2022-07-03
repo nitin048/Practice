@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janmansh-and-Games", "Janma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helping-Chef", "Helping-Chef\Helping-Chef.csproj", "{D448D088-FF5C-4D4B-941E-895A386EF622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{5A452B75-D903-48A1-848E-F2E7CE866727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{D448D088-FF5C-4D4B-941E-895A386EF622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D448D088-FF5C-4D4B-941E-895A386EF622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D448D088-FF5C-4D4B-941E-895A386EF622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A452B75-D903-48A1-848E-F2E7CE866727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A452B75-D903-48A1-848E-F2E7CE866727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A452B75-D903-48A1-848E-F2E7CE866727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A452B75-D903-48A1-848E-F2E7CE866727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
