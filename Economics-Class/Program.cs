@@ -46,22 +46,22 @@ namespace Economics_Class
                         b[j] = int.Parse(Console.ReadLine());
                     }
                     Console.WriteLine("--------------------------------------");
-                    foreach (var item in a)
-                    {
-                        foreach (var item1 in b)
-                        {
-                            if (item != item1)
-                            {
-                                ans++;
-                            }
-                            else
-                            {
-                                mm++;
-                            }
-                        }
+                    //foreach (var item in a)
+                    //{
+                    //    foreach (var item1 in b)
+                    //    {
+                    //        if (item != item1)
+                    //        {
+                    //            ans++;
+                    //        }
+                    //        else
+                    //        {
+                    //            mm++;
+                    //        }
+                    //    }
                         
-                    }
-                    Console.WriteLine(mm);
+                    //}
+                    Console.WriteLine(ans);
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();
