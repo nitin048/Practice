@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{37F96CBF-3B5F-4F35-BABE-F0ECEA319D30}|Default">
+﻿<Properties StartupConfiguration="{99A60AB8-D194-4321-AEF9-CCEE5E60DC96}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Sum-OR-Difference FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Finding-Square-Roots PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PASSORFAIL PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Self-Defence-Training PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Chef-and-Races FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Chef-and-Races PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Triangle-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CupFinals PreferredExecutionTarget="MonoDevelop.Default" />

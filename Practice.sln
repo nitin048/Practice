@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PASSORFAIL", "PASSORFAIL\PA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chef-and-Races", "Chef-and-Races\Chef-and-Races.csproj", "{99A60AB8-D194-4321-AEF9-CCEE5E60DC96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum-OR-Difference", "Sum-OR-Difference\Sum-OR-Difference.csproj", "{CC1F0A6D-3F53-477E-B626-4F922D8D6D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{99A60AB8-D194-4321-AEF9-CCEE5E60DC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A60AB8-D194-4321-AEF9-CCEE5E60DC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A60AB8-D194-4321-AEF9-CCEE5E60DC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1F0A6D-3F53-477E-B626-4F922D8D6D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1F0A6D-3F53-477E-B626-4F922D8D6D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1F0A6D-3F53-477E-B626-4F922D8D6D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1F0A6D-3F53-477E-B626-4F922D8D6D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
