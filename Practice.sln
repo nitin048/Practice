@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Small-Factorial", "Small-Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janmansh-and-Games", "Janmansh-and-Games\Janmansh-and-Games.csproj", "{B1C1D5E2-156F-435A-8D76-4683213E73C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helping-Chef", "Helping-Chef\Helping-Chef.csproj", "{D448D088-FF5C-4D4B-941E-895A386EF622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1C1D5E2-156F-435A-8D76-4683213E73C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D448D088-FF5C-4D4B-941E-895A386EF622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D448D088-FF5C-4D4B-941E-895A386EF622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D448D088-FF5C-4D4B-941E-895A386EF622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D448D088-FF5C-4D4B-941E-895A386EF622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

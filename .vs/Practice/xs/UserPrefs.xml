@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{75E8FB72-6A67-4283-9D3F-147161D4582B}|Default">
+﻿<Properties StartupConfiguration="{B1C1D5E2-156F-435A-8D76-4683213E73C1}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Janmansh-and-Games FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Janmansh-and-Games PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Sum-OR-Difference PreferredExecutionTarget="MonoDevelop.Default" />
@@ -51,4 +51,5 @@
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-WaterBottles PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Small-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Helping-Chef FirstBuild="True" />
 </Properties>
