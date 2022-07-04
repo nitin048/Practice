@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{5A452B75-D903-48A1-848E-F2E7CE866727}|Default">
+﻿<Properties StartupConfiguration="{7CFAC949-B33C-4ACD-BDC5-279FBEF9ED89}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
@@ -12,7 +12,8 @@
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Self-Defence-Training PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-Races PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Economics-Class FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Economics-Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RCB-and-Playoffs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Triangle-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CupFinals PreferredExecutionTarget="MonoDevelop.Default" />
@@ -52,6 +53,7 @@
   <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-WaterBottles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.The-Lead-Game FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Small-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Helping-Chef PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
