@@ -30,7 +30,8 @@ namespace Economics_Class
                 {
                     Console.WriteLine("Lets Help alice to understand makert in equilibrium");
                     Console.WriteLine("Enter the size of an array");
-                    int x = int.Parse(Console.ReadLine());
+                    int x = 0;
+                    x = int.Parse(Console.ReadLine());
                     int ans = 0;
                     int mm = 0;
                     Console.WriteLine("Enter elements of 1st array");
@@ -45,23 +46,15 @@ namespace Economics_Class
                     {
                         b[j] = int.Parse(Console.ReadLine());
                     }
-                    Console.WriteLine("--------------------------------------");
-                    //foreach (var item in a)
-                    //{
-                    //    foreach (var item1 in b)
-                    //    {
-                    //        if (item != item1)
-                    //        {
-                    //            ans++;
-                    //        }
-                    //        else
-                    //        {
-                    //            mm++;
-                    //        }
-                    //    }
-                        
-                    //}
-                    Console.WriteLine(ans);
+                    for (int i = 0; i < x; i++)
+                    {
+                        if (a[i]==b[i])
+                        {
+                            ans++;
+                        }
+                    }
+                    Console.WriteLine("--------------------------------------------");
+                    Console.WriteLine("Total equilirium is: "+ans);
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();
