@@ -63,7 +63,7 @@ namespace The_Lead_Game
                         
                     }
                     Console.WriteLine("-----------------------------------------------");
-                    Console.WriteLine("THIS THE VALUE"+" "+player+" "+maxelement);
+                    Console.WriteLine("THIS IS THE VALUE"+" "+player+" "+maxelement);
                     Console.WriteLine("-----------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();

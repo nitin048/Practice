@@ -12,9 +12,10 @@ namespace Lazy_Chef
                 do
                 {
                     Console.WriteLine("Welcome Lazy chef ");
-                    Console.WriteLine("Enter the values");
+                    Console.WriteLine("Enter the size of an array");
                     int size = 0;
                     size = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter the element");
                     int[] a = new int[size];
                     for (int i = 0; i < size; i++)
                     {
@@ -33,8 +34,6 @@ namespace Lazy_Chef
                         Console.WriteLine(ans2);
                     }
                    
-
-               
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();

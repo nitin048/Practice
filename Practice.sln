@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The-Lead-Game", "The-Lead-G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy-Chef", "Lazy-Chef\Lazy-Chef.csproj", "{D2FEA6D1-525E-47DD-BDB2-F0A1F67B02CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardest-Problem-Bet", "Hardest-Problem-Bet\Hardest-Problem-Bet.csproj", "{958EA734-55BC-407D-89EA-9F312C0AD303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{D2FEA6D1-525E-47DD-BDB2-F0A1F67B02CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2FEA6D1-525E-47DD-BDB2-F0A1F67B02CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2FEA6D1-525E-47DD-BDB2-F0A1F67B02CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958EA734-55BC-407D-89EA-9F312C0AD303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958EA734-55BC-407D-89EA-9F312C0AD303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958EA734-55BC-407D-89EA-9F312C0AD303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958EA734-55BC-407D-89EA-9F312C0AD303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
