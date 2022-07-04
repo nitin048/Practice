@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{D2FEA6D1-525E-47DD-BDB2-F0A1F67B02CD}|Default">
+﻿<Properties StartupConfiguration="{958EA734-55BC-407D-89EA-9F312C0AD303}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Wordle FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
@@ -57,5 +58,5 @@
   <MonoDevelop.Ide.ItemProperties.The-Lead-Game PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Small-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Helping-Chef PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Hardest-Problem-Bet FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Hardest-Problem-Bet PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -35,9 +35,6 @@ namespace Hardest_Problem_Bet
                         {
                             Console.WriteLine("Alice");
                         }
-                    
-                    
-                    
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();
