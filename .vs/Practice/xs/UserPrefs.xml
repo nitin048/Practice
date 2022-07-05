@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}|Default">
+﻿<Properties StartupConfiguration="{C4665684-A3CB-4B82-AA1D-62443AE2911A}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Wordle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
@@ -44,7 +44,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.The-Preparations FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.The-Preparations PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Second-Largest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
@@ -55,6 +55,7 @@
   <MonoDevelop.Ide.ItemProperties.Lazy-Chef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Decrement-OR-Increment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Genes FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-WaterBottles PreferredExecutionTarget="MonoDevelop.Default" />

@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gross-Salary", "Gross-Salar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The-Preparations", "The-Preparations\The-Preparations.csproj", "{C4665684-A3CB-4B82-AA1D-62443AE2911A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genes", "Genes\Genes.csproj", "{EE6AB95E-283C-43E9-9103-7513F1E17E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{C4665684-A3CB-4B82-AA1D-62443AE2911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4665684-A3CB-4B82-AA1D-62443AE2911A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4665684-A3CB-4B82-AA1D-62443AE2911A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6AB95E-283C-43E9-9103-7513F1E17E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6AB95E-283C-43E9-9103-7513F1E17E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6AB95E-283C-43E9-9103-7513F1E17E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6AB95E-283C-43E9-9103-7513F1E17E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
