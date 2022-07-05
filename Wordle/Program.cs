@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ https://www.codechef.com/submit/WORDLE
+ */
+using System;
 
 namespace Wordle
 {

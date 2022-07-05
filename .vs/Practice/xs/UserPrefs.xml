@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{958EA734-55BC-407D-89EA-9F312C0AD303}|Default">
+﻿<Properties StartupConfiguration="{A57080DE-D15A-4CD1-9CC3-D3F8F3BEF8C6}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Wordle FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Wordle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Complete-the-credits FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Janmansh-and-Games PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EzioandGuards PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
