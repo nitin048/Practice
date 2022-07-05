@@ -1,9 +1,9 @@
 ﻿/*
- https://www.codechef.com/submit/FLOW011
+ https://www.codechef.com/submit/SUPCHEF
  */
 using System;
 
-namespace Gross_Salary
+namespace The_Preparations
 {
     class Program
     {
@@ -14,27 +14,22 @@ namespace Gross_Salary
                 string confrim;
                 do
                 {
-                    Console.WriteLine("Let's check your Gross salary");
-                    Console.WriteLine("Enter your Basic Salary");
-                    double BasicSalary = double.Parse(Console.ReadLine());
-                    double HRA = 0;
-                    double DA = 0;
-                    
-                    if ( BasicSalary<1500)
+                    Console.WriteLine("Let's check chef's prepration");
+                    Console.WriteLine("Enter your values in an array");
+                    int[] x = new int[3];
+                    for (int i = 0; i < x.Length; i++)
                     {
-                        HRA = BasicSalary / 100*10;
-        
-                        DA = BasicSalary / 100 * 90;
-                        Console.WriteLine("Gross Salary is :"+" "+(BasicSalary+HRA+DA));
+                        x[i] = int.Parse(Console.ReadLine());
                     }
-                    else if (BasicSalary >= 1500)
+
+                    if (x[0]>(x[1]*x[2]))
                     {
-                        HRA = 500;
-                        DA = (BasicSalary / 100) * 98;
-                        Console.WriteLine("Gross Salary is :" + " " + (BasicSalary + HRA + DA));
-                        
+                        Console.WriteLine("Yes");
                     }
-                    
+                    else
+                    {
+                        Console.WriteLine("No");
+                    }
                     Console.WriteLine("--------------------------------------------");
                     Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
                     confrim = Console.ReadLine().ToLower();
