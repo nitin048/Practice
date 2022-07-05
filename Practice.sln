@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordle", "Wordle\Wordle.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete-the-credits", "Complete-the-credits\Complete-the-credits.csproj", "{A7E61AC8-D239-47FF-B3A8-EBC2CC723FC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gross-Salary", "Gross-Salary\Gross-Salary.csproj", "{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{A7E61AC8-D239-47FF-B3A8-EBC2CC723FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7E61AC8-D239-47FF-B3A8-EBC2CC723FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7E61AC8-D239-47FF-B3A8-EBC2CC723FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F42187-5E64-4D54-8D1A-0546F5BDFEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
