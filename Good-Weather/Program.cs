@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ https://www.codechef.com/submit/GOODWEAT
+ */
+
+using System;
 
 namespace Good_Weather
 {
