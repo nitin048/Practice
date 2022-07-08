@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good-Weather", "Good-Weathe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade-The-Steel", "Grade-The-Steel\Grade-The-Steel.csproj", "{F5627FF5-A19B-444E-AE5B-562BD317B8DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is-it-a-VOWELorCONSONANT", "Is-it-a-VOWELorCONSONANT\Is-it-a-VOWELorCONSONANT.csproj", "{77BFD9A2-C0DF-4EAC-A38C-B4BF9221BA32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which-Mixture", "Which-Mixture\Which-Mixture.csproj", "{2638F80D-39B0-44A0-984B-E90F87162931}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +283,14 @@ Global
 		{F5627FF5-A19B-444E-AE5B-562BD317B8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5627FF5-A19B-444E-AE5B-562BD317B8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5627FF5-A19B-444E-AE5B-562BD317B8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BFD9A2-C0DF-4EAC-A38C-B4BF9221BA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BFD9A2-C0DF-4EAC-A38C-B4BF9221BA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BFD9A2-C0DF-4EAC-A38C-B4BF9221BA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BFD9A2-C0DF-4EAC-A38C-B4BF9221BA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2638F80D-39B0-44A0-984B-E90F87162931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2638F80D-39B0-44A0-984B-E90F87162931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2638F80D-39B0-44A0-984B-E90F87162931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2638F80D-39B0-44A0-984B-E90F87162931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
