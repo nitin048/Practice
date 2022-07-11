@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which-Mixture", "Which-Mixt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess-Format", "Chess-Format\Chess-Format.csproj", "{D255345F-8412-468A-A209-D35ADFCD9C04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Body-Mass-Index", "Body-Mass-Index\Body-Mass-Index.csproj", "{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{D255345F-8412-468A-A209-D35ADFCD9C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D255345F-8412-468A-A209-D35ADFCD9C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D255345F-8412-468A-A209-D35ADFCD9C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
