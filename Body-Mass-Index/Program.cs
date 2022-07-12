@@ -23,8 +23,6 @@ namespace Body_Mass_Index
                     BMI = Convert.ToInt32(y / (result* result));
                     HashSet<double> nums = new HashSet<double> { 19, 20, 21, 22, 23, 24 };
                     HashSet<double> nums1 = new HashSet<double> { 25, 26, 27, 28, 29 };
-                    double[] arr = {19,20,21,22,23,24 };
-                    double[] arr1 = { 25, 26, 27, 28, 29 };
                     Console.WriteLine("--------------------------------------------------------------");
                     if (BMI<=18)
                     {

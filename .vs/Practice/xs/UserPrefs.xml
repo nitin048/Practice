@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{D255345F-8412-468A-A209-D35ADFCD9C04}|Default">
+﻿<Properties StartupConfiguration="{BB1F27FA-2339-4279-BE5A-07310D6FA6E7}|Default">
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Good-Weather PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Wordle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Id-and-Ship FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Complete-the-credits PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Janmansh-and-Games PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Gross-Salary PreferredExecutionTarget="MonoDevelop.Default" />
@@ -61,7 +62,7 @@
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Decrement-OR-Increment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Which-Mixture PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Body-Mass-Index FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Body-Mass-Index PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Genes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
