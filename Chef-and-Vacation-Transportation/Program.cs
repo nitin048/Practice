@@ -14,31 +14,34 @@ namespace Chef_and_Vacation_Transportation
                 string confrim;
                 do
                 {
-                    Console.WriteLine("Enter the time take by flight ");
-                    int x = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter the time take by bus ");
-                    int y = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter the time take by train ");
-                    int z = int.Parse(Console.ReadLine());
-                    Console.WriteLine("--------------------------------------------------------------");
-                    int result = x + y;
-                    if (result>z )
-                    {
-                        Console.WriteLine("TRAIN");
-                    }
-                    else if (result<z)
-                    {
-                        Console.WriteLine("PLANEBUS");
+                    Console.WriteLine("Enter your constrain value and input values");
+                    
+                    int x = Convert.ToInt32(Console.ReadLine()), ac = 0, bc = 0, cc = 0;
+                    for (int i = 0; i < x; ++i)
+            {
+                string[] split = Console.ReadLine().Split(' ');
+                ac = Convert.ToInt32(split[0]);
+                bc = Convert.ToInt32(split[1]);
+                cc = Convert.ToInt32(split[2]);
 
-                    }
-                    else
-                    {
-                        Console.WriteLine("Equals");
-                    }
-                    Console.WriteLine("--------------------------------------------------------------");
-                    Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
-                    confrim = Console.ReadLine().ToLower();
-                } while (confrim == "yes");
+                if ((ac + bc) > cc)
+                {
+                    Console.WriteLine("TRAIN");
+                }
+                else if ((ac + bc) < cc)
+                {
+                    Console.WriteLine("PLANEBUS");
+
+                }
+                else if ((ac + bc) == cc)
+                {
+                    Console.WriteLine("EQUAL");
+                }
+            }
+            Console.WriteLine("--------------------------------------------------------------");
+            Console.WriteLine("Do you want to run the prgm again?🤔\nYes or No");
+            confrim = Console.ReadLine().ToLower();
+        } while (confrim == "yes");
                 Console.WriteLine("--------------------------------------");
                 Console.WriteLine("Thank you!!👋");
             }
@@ -47,7 +50,14 @@ namespace Chef_and_Vacation_Transportation
                 Console.WriteLine("Invalid input!!!☠️");
                 Console.WriteLine("\nHere is the exception:->" + " " + ex);
             }
+
+
+
+                
+            }
         }
+
+
     }
-}
+
 
