@@ -19,22 +19,21 @@ namespace Body_Mass_Index
                     double result=meter(x);
                     Console.WriteLine("Enter your weight in kg");
                     int y = int.Parse(Console.ReadLine());
-                    int BMI = 0;
-                    BMI = Convert.ToInt32(y / (result* result));
-                    HashSet<double> nums = new HashSet<double> { 19, 20, 21, 22, 23, 24 };
-                    HashSet<double> nums1 = new HashSet<double> { 25, 26, 27, 28, 29 };
+                    double BMI = 0;
+                    BMI = y / (result* result);
+                    
                     Console.WriteLine("--------------------------------------------------------------");
                     if (BMI<=18)
                     {
                         Console.WriteLine("Underweight");
                     }
-                    else if (nums.Contains(BMI))
+                    else if (BMI>=19 && BMI<=24)
                     {
                         
                                 Console.WriteLine("Normal");
                          
                     }
-                    else if (nums1.Contains(BMI))
+                    else if (BMI >= 25 && BMI <= 29)
                     {
                       
                                 Console.WriteLine("overweight");
