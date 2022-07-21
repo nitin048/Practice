@@ -115,6 +115,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-Category", "Problem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Choice", "Car-Choice\Car-Choice.csproj", "{64F59C54-1A3B-4470-A834-1A2F3F406800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total-Expenses", "Total-Expenses\Total-Expenses.csproj", "{D7181378-2E35-46EB-BDA8-627FFD0A0B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd-even-game", "odd-even-game\odd-even-game.csproj", "{2D6D6056-BFF0-46D6-AD00-7D8F7D8226E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +349,14 @@ Global
 		{64F59C54-1A3B-4470-A834-1A2F3F406800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64F59C54-1A3B-4470-A834-1A2F3F406800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64F59C54-1A3B-4470-A834-1A2F3F406800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7181378-2E35-46EB-BDA8-627FFD0A0B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7181378-2E35-46EB-BDA8-627FFD0A0B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7181378-2E35-46EB-BDA8-627FFD0A0B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7181378-2E35-46EB-BDA8-627FFD0A0B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6D6056-BFF0-46D6-AD00-7D8F7D8226E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6D6056-BFF0-46D6-AD00-7D8F7D8226E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6D6056-BFF0-46D6-AD00-7D8F7D8226E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6D6056-BFF0-46D6-AD00-7D8F7D8226E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
