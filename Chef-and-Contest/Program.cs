@@ -1,6 +1,9 @@
-﻿using System;
+﻿/*
+ https://www.codechef.com/submit/CHEFCONTEST
+ */
+using System;
 
-namespace Total_Expenses
+namespace Chef_and_Contest
 {
     class Program
     {
@@ -12,29 +15,28 @@ namespace Total_Expenses
                 do
                 {
                     Console.WriteLine("Enter your array size and values?");
-                    int x = Convert.ToInt32(Console.ReadLine());
-                    double x1 = 0, x2 = 0;
+                    int x = Convert.ToInt32(Console.ReadLine()),x1=0,x2=0,y1=0,y2=0,chef=0,chefina=0;
+                    
                     for (int i = 0; i < x; ++i)
                     {
                         string[] str = Console.ReadLine().Split(' ');
-                        x1 = Convert.ToDouble(str[0]);
-                        x2 = Convert.ToDouble(str[1]);
-                        
+                        x1 = Convert.ToInt32(str[0]);
+                        x2 = Convert.ToInt32(str[1]);
+                        y1 = Convert.ToInt32(str[2]);
+                        y2 = Convert.ToInt32(str[3]);
 
-                        double discount = (x1*x2);
-                        double discount1 = (discount/10);
-                        double discount2 = discount - discount1;
-
-                        if (x1 < 1000)
+                        chef = x1 + (y1 * 10);
+                        chefina = x2 + (y2 * 10);
+                        if (chef<chefina)
                         {
-                            Console.WriteLine(x1 * x2);
+                            Console.WriteLine("Chef");
                         }
-                        else 
+                        else if(chef == chefina)
                         {
 
-                            Console.WriteLine(discount2);
+                            Console.WriteLine("Alice");
                         }
-                        
+
                     }
                     Console.WriteLine("-----------------------------------------------");
                     Console.WriteLine("Do you want to repeat the program again?\nYes or No");

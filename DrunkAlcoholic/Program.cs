@@ -1,6 +1,10 @@
-﻿using System;
+﻿/*
+ https://www.codechef.com/submit/DRUNKALK
+ */
+using System;
+using System.Text;
 
-namespace odd_even_game
+namespace DrunkAlcoholic
 {
     class Program
     {
@@ -12,26 +16,17 @@ namespace odd_even_game
                 do
                 {
                     Console.WriteLine("Enter your array size and values?");
-                    int x = Convert.ToInt32(Console.ReadLine());
-                    int x1 = 0, x2 = 0;
-                    for (int i = 0; i < x; ++i)
+                    int input_1 = Convert.ToInt32(Console.ReadLine()), input_2 = 0, answer = 0;
+                    for (int x = 0; x < input_1; ++x)
                     {
-                        string[] str = Console.ReadLine().Split(' ');
-                        x1 = Convert.ToInt32(str[0]);
-                        x2 = Convert.ToInt32(str[1]);
-
-
-                        if ((x1+x2)%2==0 )
-                        {
-                            Console.WriteLine("Bob");
-                        }
-                        else
-                        {
-
-                            Console.WriteLine("Alice");
-                        }
-
+                        input_2 = Convert.ToInt32(Console.ReadLine());
+                        answer = input_2 * 3;
+                        input_2 /= 2;
+                        answer -= input_2 * 4;
+                        Console.WriteLine(answer);
                     }
+                    Console.ReadLine();
+
                     Console.WriteLine("-----------------------------------------------");
                     Console.WriteLine("Do you want to repeat the program again?\nYes or No");
                     confirm = Console.ReadLine().ToLower();
