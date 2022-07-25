@@ -25,7 +25,6 @@ namespace DrunkAlcoholic
                         answer -= input_2 * 4;
                         Console.WriteLine(answer);
                     }
-                    Console.ReadLine();
 
                     Console.WriteLine("-----------------------------------------------");
                     Console.WriteLine("Do you want to repeat the program again?\nYes or No");
