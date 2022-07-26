@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passes-for-Fair", "Passes-f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interior-Design", "Interior-Design\Interior-Design.csproj", "{26CBF2A1-CCB2-4D48-BEAB-00AE972AFEB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "True-and-False-Paper", "True-and-False-Paper\True-and-False-Paper.csproj", "{21EF7552-DFD5-4435-B284-B6AEF29A4A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{26CBF2A1-CCB2-4D48-BEAB-00AE972AFEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26CBF2A1-CCB2-4D48-BEAB-00AE972AFEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26CBF2A1-CCB2-4D48-BEAB-00AE972AFEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EF7552-DFD5-4435-B284-B6AEF29A4A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF7552-DFD5-4435-B284-B6AEF29A4A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF7552-DFD5-4435-B284-B6AEF29A4A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF7552-DFD5-4435-B284-B6AEF29A4A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

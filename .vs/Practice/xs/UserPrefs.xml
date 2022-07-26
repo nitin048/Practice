@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{7FEBB066-A085-4737-9F54-EFD633362327}|Default">
+  <MonoDevelop.Ide.ItemProperties.True-and-False-Paper FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Interior-Design FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Total-Expenses PreferredExecutionTarget="MonoDevelop.Default" />
@@ -31,7 +32,13 @@
   <MonoDevelop.Ide.ItemProperties.Grade-The-Steel PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.The-Lead-Game PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DiscusThrow PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/Total-Expenses/Program.cs" relfile="Total-Expenses/Program.cs" line="24" column="1" />
+      <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/Total-Expenses/Program.cs" relfile="Total-Expenses/Program.cs" line="28" column="1" />
+      <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/DrunkAlcoholic/Program.cs" relfile="DrunkAlcoholic/Program.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DrunkAlcoholic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FINDSHOES PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Id-and-Ship PreferredExecutionTarget="MonoDevelop.Default" />
@@ -48,32 +55,38 @@
   <MonoDevelop.Ide.ItemProperties.Lazy-Chef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Olympics-Ranking FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Car-Choice/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="True-and-False-Paper/Program.cs">
     <Files>
-      <File FileName="Is-it-a-VOWELorCONSONANT/Program.cs" Line="18" Column="61" />
-      <File FileName="Which-Mixture/Program.cs" Line="18" Column="57" />
-      <File FileName="Chess-Format/Program.cs" Line="12" Column="11" />
-      <File FileName="Body-Mass-Index/Program.cs" Line="37" Column="22" />
-      <File FileName="Id-and-Ship/Program.cs" Line="6" Column="22" />
-      <File FileName="Find-duplicate-char/Program.cs" Line="15" Column="54" />
-      <File FileName="Chef-and-Vacation-Transportation/Program.cs" Line="40" Column="14" />
-      <File FileName="Chefland-Visa/Program.cs" Line="12" Column="1" />
-      <File FileName="Devendra-and-WaterSports/Program.cs" Line="12" Column="13" />
-      <File FileName="Problem-Category/Program.cs" Line="5" Column="1" />
-      <File FileName="Car-Choice/Program.cs" Line="2" Column="59" />
+      <File FileName="DrunkAlcoholic/Program.cs" Line="8" Column="2" />
+      <File FileName="Chef-On-Island/Program.cs" Line="9" Column="10" />
+      <File FileName="Olympics-Ranking/Program.cs" Line="7" Column="40" />
+      <File FileName="Passes-for-Fair/Program.cs" Line="9" Column="13" />
+      <File FileName="Interior-Design/Program.cs" Line="9" Column="10" />
+      <File FileName="True-and-False-Paper/Program.cs" Line="12" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Practice" expanded="True">
+          <Node name="Practice" expanded="True" selected="True">
+            <Node name="Body-Mass-Index" expanded="True" />
             <Node name="Car-Choice" expanded="True" />
+            <Node name="Chef-and-Contest" expanded="True" />
             <Node name="Chef-and-Vacation-Transportation" expanded="True" />
+            <Node name="Chef-On-Island" expanded="True" />
             <Node name="Chefland-Visa" expanded="True" />
+            <Node name="Chess-Format" expanded="True" />
             <Node name="Devendra-and-WaterSports" expanded="True" />
-            <Node name="Genes" expanded="True" />
-            <Node name="Good-Weather" expanded="True" />
-            <Node name="Grade-The-Steel" expanded="True" />
+            <Node name="DrunkAlcoholic" expanded="True" />
+            <Node name="Find-duplicate-char" expanded="True" />
+            <Node name="Interior-Design" expanded="True" />
+            <Node name="Is-it-a-VOWELorCONSONANT" expanded="True" />
+            <Node name="odd-even-game" expanded="True" />
+            <Node name="Olympics-Ranking" expanded="True" />
+            <Node name="Passes-for-Fair" expanded="True" />
             <Node name="Problem-Category" expanded="True" />
+            <Node name="Total-Expenses" expanded="True" />
+            <Node name="True-and-False-Paper" expanded="True" />
+            <Node name="Which-Mixture" expanded="True" />
           </Node>
         </State>
       </Pad>
