@@ -57,12 +57,10 @@
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="True-and-False-Paper/Program.cs">
     <Files>
-      <File FileName="DrunkAlcoholic/Program.cs" Line="8" Column="2" />
-      <File FileName="Chef-On-Island/Program.cs" Line="9" Column="10" />
       <File FileName="Olympics-Ranking/Program.cs" Line="7" Column="40" />
       <File FileName="Passes-for-Fair/Program.cs" Line="9" Column="13" />
       <File FileName="Interior-Design/Program.cs" Line="9" Column="10" />
-      <File FileName="True-and-False-Paper/Program.cs" Line="12" Column="19" />
+      <File FileName="True-and-False-Paper/Program.cs" Line="43" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
