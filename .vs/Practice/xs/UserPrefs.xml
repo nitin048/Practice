@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{7FEBB066-A085-4737-9F54-EFD633362327}|Default">
+﻿<Properties StartupConfiguration="{B39EA611-0BCB-42B2-846B-F6AB985EE263}|Default">
   <MonoDevelop.Ide.ItemProperties.Chef-On-Island PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Grade-The-Steel PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-in-his-Office FirstBuild="True" />
@@ -66,7 +66,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Maximise-the-Tastiness FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Maximise-the-Tastiness PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Olympics-Ranking FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Is-it-hot-or-cold FirstBuild="True" />
@@ -107,6 +107,7 @@
   <MonoDevelop.Ide.ItemProperties.Chef-and-Races PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RCB-and-Playoffs PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.N-Buttons-1-Bulb FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-Vacation-Transportation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DrunkAlcoholic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Complete-the-credits PreferredExecutionTarget="MonoDevelop.Default" />
