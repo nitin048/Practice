@@ -6,15 +6,18 @@
   <MonoDevelop.Ide.ItemProperties.BATTERYLOW PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-WaterBottles PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Economics-Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Fitness FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/Total-Expenses/Program.cs" relfile="Total-Expenses/Program.cs" line="24" column="1" />
     <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/Total-Expenses/Program.cs" relfile="Total-Expenses/Program.cs" line="28" column="1" />
     <Breakpoint file="/Users/nitinpradhan/Documents/Learing/Practice/DrunkAlcoholic/Program.cs" relfile="DrunkAlcoholic/Program.cs" line="20" column="1" />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Discount FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Interior-Design FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.INTEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.INCRIQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CourseReg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Nearest-Court FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.LifeExpactency PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Body-Mass-Index PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chefland-Visa PreferredExecutionTarget="MonoDevelop.Default" />
@@ -67,16 +70,19 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TRUESCORE PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Maximise-the-Tastiness PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Who-is-taller FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Olympics-Ranking FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Is-it-hot-or-cold FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Which-Mixture PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OddEven-number PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Self-Defence-Training PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Biryani FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Wordle PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lazy-Chef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Small-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PASSORFAIL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mileage-matters FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Passes-for-Fair FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chess-Format PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.F1RULE PreferredExecutionTarget="MonoDevelop.Default" />
@@ -98,6 +104,7 @@
   <MonoDevelop.Ide.ItemProperties.COURSEREG PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Mahasena PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.THREETOPICS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Burgers FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-Contest FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Important-Pages-on-CodeChef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.The-Lead-Game PreferredExecutionTarget="MonoDevelop.Default" />
@@ -110,6 +117,7 @@
   <MonoDevelop.Ide.ItemProperties.N-Buttons-1-Bulb FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chef-and-Vacation-Transportation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DrunkAlcoholic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.How-many-unattempted-problems FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Complete-the-credits PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Second-Largest PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
