@@ -82,6 +82,7 @@
   <MonoDevelop.Ide.ItemProperties.Lazy-Chef PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Small-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PASSORFAIL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CHEFONDATE FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Mileage-matters FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Passes-for-Fair FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chess-Format PreferredExecutionTarget="MonoDevelop.Default" />

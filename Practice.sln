@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Who-is-taller", "Who-is-tal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MY1STCONTEST", "MY1STCONTEST\MY1STCONTEST.csproj", "{6D5DDDDB-85F5-4B9A-B2BF-8365BB10190D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHEFONDATE", "CHEFONDATE\CHEFONDATE.csproj", "{494DEE9C-DEF9-4369-8D15-FFEDB9B8A2BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{6D5DDDDB-85F5-4B9A-B2BF-8365BB10190D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5DDDDB-85F5-4B9A-B2BF-8365BB10190D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5DDDDB-85F5-4B9A-B2BF-8365BB10190D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494DEE9C-DEF9-4369-8D15-FFEDB9B8A2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494DEE9C-DEF9-4369-8D15-FFEDB9B8A2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494DEE9C-DEF9-4369-8D15-FFEDB9B8A2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494DEE9C-DEF9-4369-8D15-FFEDB9B8A2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
