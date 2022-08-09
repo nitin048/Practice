@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{B39EA611-0BCB-42B2-846B-F6AB985EE263}|Default">
+  <MonoDevelop.Ide.ItemProperties.Enough-Space FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Chef-On-Island PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Grade-The-Steel PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Chef-in-his-Office FirstBuild="True" />
