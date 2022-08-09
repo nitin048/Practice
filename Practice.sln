@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subscription", "subscriptio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enough-Space", "Enough-Space\Enough-Space.csproj", "{153109B0-D40F-4A38-BF72-B2D3CA5F2938}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidding", "Bidding\Bidding.csproj", "{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{153109B0-D40F-4A38-BF72-B2D3CA5F2938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{153109B0-D40F-4A38-BF72-B2D3CA5F2938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{153109B0-D40F-4A38-BF72-B2D3CA5F2938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
