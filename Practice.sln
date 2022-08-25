@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enough-Space", "Enough-Spac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidding", "Bidding\Bidding.csproj", "{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Valid-Minimum-Pair\Anagram.csproj", "{346B1481-79E1-4BB8-852C-18ED57648430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -507,6 +509,10 @@ Global
 		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4443E960-8ED7-4234-8CD8-61C2C83DF8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346B1481-79E1-4BB8-852C-18ED57648430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346B1481-79E1-4BB8-852C-18ED57648430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346B1481-79E1-4BB8-852C-18ED57648430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346B1481-79E1-4BB8-852C-18ED57648430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
